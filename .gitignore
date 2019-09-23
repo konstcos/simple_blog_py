@@ -1,3 +1,6 @@
 .idea
 /my_env
 mysite/db.sqlite3
+mysite/blog/__pycache__
+mysite/mysite/__pycache__
+mysite/blog/migrations/__pycache__
