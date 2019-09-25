@@ -1,5 +1,6 @@
 .idea
 /my_env
+/mysite/.env
 mysite/db.sqlite3
 mysite/blog/__pycache__
 mysite/mysite/__pycache__
